@@ -1,0 +1,1 @@
+Data comes from https://www.barttorvik.com/. The file "MarchMadnessMania_2025_predictions.csv" is the final predictions for all possible matchups in both men's and women's NCAA basketball (division 1) for 2025.
